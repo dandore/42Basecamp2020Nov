@@ -1,0 +1,9 @@
+norminette -R CheckForbiddenSourceHeader *.c
+
+gcc -Wall -Wextra -Werror && ./a.out
+
+#include <unistd.h>
+int		main(void)
+{
+	ft_print_alphabet();
+}
