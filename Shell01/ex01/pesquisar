@@ -1,0 +1,8 @@
+
+export = mostra todas as varíaveis de ambiente
+relacionar com conceitos de grupos e permissões
+
+groups + usuário
+
+criar um sh que mostre separando-os por vírgulas sem espaços
+

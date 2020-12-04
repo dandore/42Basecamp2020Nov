@@ -1,0 +1,5 @@
+pesquisar 
+Encontrar arquivos com find
+somar com comando -exec basename {} \.
+basename - return the last component of a pathname
+{} (condiçao) \. = funciona similar ao while - executa enquanto houver arq .sh

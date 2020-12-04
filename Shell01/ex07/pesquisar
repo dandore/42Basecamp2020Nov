@@ -1,0 +1,5 @@
+Criar variáreis com export (FT_USER1 e 2)
+Entender um mínimo de sed : https://terminalroot.com.br/2015/07/30-exemplos-do-comando-sed-com-regex.html
+estrutura
+sed s[função substituição]/[coisa a ser substituída]/[substituição] g/
+
